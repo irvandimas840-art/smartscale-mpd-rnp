@@ -1,0 +1,175 @@
+/* =================================================
+   SMART SILO CONTROLLER
+   MANUAL & AUTO MODE
+   GATE SILANG
+   FEEDER DELAY SETELAH GATE (NON BLOCKING)
+   ================================================= */
+
+// ================= ENUM =================
+enum RunMode {
+  MODE_MANUAL,
+  MODE_AUTO
+};
+
+enum FeederState {
+  FEEDER_IDLE,
+  FEEDER_WAIT,
+  FEEDER_RUNNING
+};
+
+// ================= STATE =================
+RunMode     runMode      = MODE_MANUAL;
+FeederState feederState = FEEDER_IDLE;
+
+bool systemRun = false;
+
+// ================= TIMER =================
+unsigned long feederTimer = 0;
+
+// ================= CONFIG =================
+#define FEEDER_ON_DELAY 3000   // delay setelah gate (ms)
+
+// ================= PIN ===================
+#define FEED_A  6
+#define FEED_B  7
+#define GATE_A  4
+#define GATE_B  5
+
+// ================= GLOBAL =================
+int targetSilo = -1;   // 0 = A, 1 = B
+
+// ================= SETUP =================
+void setup() {
+  Serial.begin(115200);
+
+  pinMode(FEED_A, OUTPUT);
+  pinMode(FEED_B, OUTPUT);
+  pinMode(GATE_A, OUTPUT);
+  pinMode(GATE_B, OUTPUT);
+
+  stopAll();
+  Serial.println("SYSTEM READY | MODE MANUAL");
+}
+
+// ================= LOOP ==================
+void loop() {
+  readSerial();
+
+  if (!systemRun) return;
+
+  updateFeeder();
+}
+
+// ================= SERIAL =================
+void readSerial() {
+  if (!Serial.available()) return;
+
+  String cmd = Serial.readStringUntil('\n');
+  cmd.trim();
+
+  // ===== GLOBAL =====
+  if (cmd == "SILO:STOP") {
+    stopAll();
+    return;
+  }
+
+  if (cmd == "SILO:MANUAL") {
+    setManualMode();
+    return;
+  }
+
+  if (cmd == "SILO:AUTO") {
+    setAutoMode();
+    return;
+  }
+
+  if (!systemRun) return;
+
+  // ===== SILO COMMAND =====
+  if (cmd == "SILO:A") {
+    startFill(0);
+  }
+  else if (cmd == "SILO:B") {
+    startFill(1);
+  }
+}
+
+// ================= CORE LOGIC =================
+void startFill(uint8_t silo) {
+  targetSilo = silo;
+
+  // ===== SAFETY =====
+  digitalWrite(FEED_A, LOW);
+  digitalWrite(FEED_B, LOW);
+
+  // ===== GATE =====
+  if (silo == 0) {
+    // ISI A
+    digitalWrite(GATE_A, HIGH);  // A TUTUP
+    digitalWrite(GATE_B, LOW);   // B BUKA
+    Serial.println("GATE SET | A CLOSE | B OPEN");
+  } else {
+    // ISI B
+    digitalWrite(GATE_A, LOW);   // A BUKA
+    digitalWrite(GATE_B, HIGH);  // B TUTUP
+    Serial.println("GATE SET | A OPEN | B CLOSE");
+  }
+
+  // ===== FEEDER DELAY =====
+  feederState = FEEDER_WAIT;
+  feederTimer = millis();
+
+  Serial.println("WAIT FEEDER (AFTER GATE)");
+}
+
+// ================= FEEDER STATE =================
+void updateFeeder() {
+  if (feederState != FEEDER_WAIT) return;
+
+  if (millis() - feederTimer >= FEEDER_ON_DELAY) {
+    if (targetSilo == 0) {
+      digitalWrite(FEED_A, HIGH);
+      Serial.println("FEEDER RUN -> A");
+    }
+    else if (targetSilo == 1) {
+      digitalWrite(FEED_B, HIGH);
+      Serial.println("FEEDER RUN -> B");
+    }
+
+    feederState = FEEDER_RUNNING;
+  }
+}
+
+// ================= MODE =================
+void setManualMode() {
+  systemRun = true;
+  runMode = MODE_MANUAL;
+  feederState = FEEDER_IDLE;
+
+  Serial.println("MODE MANUAL ENABLED");
+}
+
+void setAutoMode() {
+  systemRun = true;
+  runMode = MODE_AUTO;
+  feederState = FEEDER_IDLE;
+
+  Serial.println("MODE AUTO ENABLED | START FROM SILO A");
+
+  // AUTO mulai dari A
+  startFill(0);
+}
+
+// ================= STOP =================
+void stopAll() {
+  systemRun = false;
+  feederState = FEEDER_IDLE;
+  targetSilo = -1;
+
+  digitalWrite(FEED_A, LOW);
+  digitalWrite(FEED_B, LOW);
+  digitalWrite(GATE_A, LOW);
+  digitalWrite(GATE_B, LOW);
+
+  Serial.println("!!! ALL OUTPUT OFF !!!");
+}

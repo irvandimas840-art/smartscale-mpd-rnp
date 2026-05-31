@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Automation Engineer\\app\\mp_RNP\\1auto\\Smartscalemp V14Auto\\Smartscalemp V14Auto\\Smartscalemp V15Auto\\SmartScale\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{94F357D4-7827-4CA7-8EC0-65BCC8F1E905}|SmartScale\\SmartScale.csproj|d:\\automation engineer\\app\\mp_rnp\\1auto\\smartscalemp v14auto\\smartscalemp v14auto\\smartscalemp v15auto\\smartscale\\smartscale\\frmtimbang.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94F357D4-7827-4CA7-8EC0-65BCC8F1E905}|SmartScale\\SmartScale.csproj|solutionrelative:smartscale\\frmtimbang.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F357D4-7827-4CA7-8EC0-65BCC8F1E905}|SmartScale\\SmartScale.csproj|D:\\Automation Engineer\\app\\mp_RNP\\1auto\\Smartscalemp V14Auto\\Smartscalemp V14Auto\\Smartscalemp V15Auto\\SmartScale\\smartscale\\frmtimbang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{94F357D4-7827-4CA7-8EC0-65BCC8F1E905}|SmartScale\\SmartScale.csproj|solutionrelative:smartscale\\frmtimbang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F357D4-7827-4CA7-8EC0-65BCC8F1E905}|SmartScale\\SmartScale.csproj|D:\\Automation Engineer\\app\\mp_RNP\\1auto\\Smartscalemp V14Auto\\Smartscalemp V14Auto\\Smartscalemp V15Auto\\SmartScale\\smartscale\\frmtimbang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94F357D4-7827-4CA7-8EC0-65BCC8F1E905}|SmartScale\\SmartScale.csproj|solutionrelative:smartscale\\frmtimbang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmTimbang.Designer.cs",
+              "DocumentMoniker": "D:\\Automation Engineer\\app\\mp_RNP\\1auto\\Smartscalemp V14Auto\\Smartscalemp V14Auto\\Smartscalemp V15Auto\\SmartScale\\SmartScale\\frmTimbang.Designer.cs",
+              "RelativeDocumentMoniker": "SmartScale\\frmTimbang.Designer.cs",
+              "ToolTip": "D:\\Automation Engineer\\app\\mp_RNP\\1auto\\Smartscalemp V14Auto\\Smartscalemp V14Auto\\Smartscalemp V15Auto\\SmartScale\\SmartScale\\frmTimbang.Designer.cs",
+              "RelativeToolTip": "SmartScale\\frmTimbang.Designer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-05-05T07:31:36.495Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "frmTimbang.cs [Design]",
+              "DocumentMoniker": "D:\\Automation Engineer\\app\\mp_RNP\\1auto\\Smartscalemp V14Auto\\Smartscalemp V14Auto\\Smartscalemp V15Auto\\SmartScale\\SmartScale\\frmTimbang.cs",
+              "RelativeDocumentMoniker": "SmartScale\\frmTimbang.cs",
+              "ToolTip": "D:\\Automation Engineer\\app\\mp_RNP\\1auto\\Smartscalemp V14Auto\\Smartscalemp V14Auto\\Smartscalemp V15Auto\\SmartScale\\SmartScale\\frmTimbang.cs [Design]",
+              "RelativeToolTip": "SmartScale\\frmTimbang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-09T01:28:25.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "frmTimbang.cs",
+              "DocumentMoniker": "D:\\Automation Engineer\\app\\mp_RNP\\1auto\\Smartscalemp V14Auto\\Smartscalemp V14Auto\\Smartscalemp V15Auto\\SmartScale\\SmartScale\\frmTimbang.cs",
+              "RelativeDocumentMoniker": "SmartScale\\frmTimbang.cs",
+              "ToolTip": "D:\\Automation Engineer\\app\\mp_RNP\\1auto\\Smartscalemp V14Auto\\Smartscalemp V14Auto\\Smartscalemp V15Auto\\SmartScale\\SmartScale\\frmTimbang.cs",
+              "RelativeToolTip": "SmartScale\\frmTimbang.cs",
+              "ViewState": "AgIAALsCAAAAAAAAAAA9wNkCAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-04T02:01:17.302Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

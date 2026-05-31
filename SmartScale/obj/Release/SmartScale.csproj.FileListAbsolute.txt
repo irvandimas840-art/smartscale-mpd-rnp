@@ -1,0 +1,12 @@
+D:\BaseProject\CSharp\SmartScale\SmartScale\bin\Release\SmartScale.exe
+D:\BaseProject\CSharp\SmartScale\SmartScale\bin\Release\SmartScale.pdb
+D:\BaseProject\CSharp\SmartScale\SmartScale\obj\Release\SmartScale.csproj.AssemblyReference.cache
+D:\BaseProject\CSharp\SmartScale\SmartScale\obj\Release\SmartScale.frmTimbang.resources
+D:\BaseProject\CSharp\SmartScale\SmartScale\obj\Release\SmartScale.Properties.Resources.resources
+D:\BaseProject\CSharp\SmartScale\SmartScale\obj\Release\SmartScale.csproj.GenerateResource.cache
+D:\BaseProject\CSharp\SmartScale\SmartScale\obj\Release\SmartScale.csproj.CoreCompileInputs.cache
+D:\BaseProject\CSharp\SmartScale\SmartScale\obj\Release\SmartScale.exe
+D:\BaseProject\CSharp\SmartScale\SmartScale\obj\Release\SmartScale.pdb
+D:\BaseProject\CSharp\SmartScale\SmartScale\bin\Release\SmartScale.exe.config
+D:\BaseProject\CSharp\SmartScale\SmartScale\bin\Release\MySql.Data.dll
+D:\BaseProject\CSharp\SmartScale\SmartScale\obj\Release\SmartScale.csproj.Up2Date

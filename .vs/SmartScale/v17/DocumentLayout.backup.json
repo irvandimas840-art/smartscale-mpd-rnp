@@ -1,0 +1,119 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\itd33.P2\\Documents\\Automation Enginner\\app\\mp_RNP\\1auto\\Smartscalemp V3Auto\\Smartscalemp V4Auto\\SmartScale\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{94F357D4-7827-4CA7-8EC0-65BCC8F1E905}|SmartScale\\SmartScale.csproj|c:\\users\\itd33.p2\\documents\\automation enginner\\app\\mp_rnp\\1auto\\smartscalemp v3auto\\smartscalemp v4auto\\smartscale\\smartscale\\frmtimbang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94F357D4-7827-4CA7-8EC0-65BCC8F1E905}|SmartScale\\SmartScale.csproj|solutionrelative:smartscale\\frmtimbang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\itd33.P2\\Documents\\Automation Enginner\\app\\mp_RNP\\1auto\\Smartscalemp V3Auto\\Smartscalemp V4Auto\\SmartScale\\packages\\MySql.Data.6.9.12\\Readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:packages\\MySql.Data.6.9.12\\Readme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F357D4-7827-4CA7-8EC0-65BCC8F1E905}|SmartScale\\SmartScale.csproj|C:\\Users\\itd33.P2\\Documents\\Automation Enginner\\app\\mp_RNP\\1auto\\Smartscalemp V3Auto\\Smartscalemp V4Auto\\SmartScale\\smartscale\\dataservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{94F357D4-7827-4CA7-8EC0-65BCC8F1E905}|SmartScale\\SmartScale.csproj|solutionrelative:smartscale\\dataservices.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F357D4-7827-4CA7-8EC0-65BCC8F1E905}|SmartScale\\SmartScale.csproj|C:\\Users\\itd33.P2\\Documents\\Automation Enginner\\app\\mp_RNP\\1auto\\Smartscalemp V3Auto\\Smartscalemp V4Auto\\SmartScale\\smartscale\\frmtimbang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{94F357D4-7827-4CA7-8EC0-65BCC8F1E905}|SmartScale\\SmartScale.csproj|solutionrelative:smartscale\\frmtimbang.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|SmartScale||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{94F357D4-7827-4CA7-8EC0-65BCC8F1E905}|SmartScale\\SmartScale.csproj|C:\\Users\\itd33.P2\\Documents\\Automation Enginner\\app\\mp_RNP\\1auto\\Smartscalemp V3Auto\\Smartscalemp V4Auto\\SmartScale\\smartscale\\frmtimbang.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}",
+      "RelativeMoniker": "D:0:0:{94F357D4-7827-4CA7-8EC0-65BCC8F1E905}|SmartScale\\SmartScale.csproj|solutionrelative:smartscale\\frmtimbang.resx||{81828910-B8B3-4D2B-99A3-067027C180C1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 281,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "frmTimbang.resx",
+              "DocumentMoniker": "C:\\Users\\itd33.P2\\Documents\\Automation Enginner\\app\\mp_RNP\\1auto\\Smartscalemp V3Auto\\Smartscalemp V4Auto\\SmartScale\\SmartScale\\frmTimbang.resx",
+              "RelativeDocumentMoniker": "SmartScale\\frmTimbang.resx",
+              "ToolTip": "C:\\Users\\itd33.P2\\Documents\\Automation Enginner\\app\\mp_RNP\\1auto\\Smartscalemp V3Auto\\Smartscalemp V4Auto\\SmartScale\\SmartScale\\frmTimbang.resx",
+              "RelativeToolTip": "SmartScale\\frmTimbang.resx",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001005|",
+              "WhenOpened": "2025-12-15T03:30:46.679Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SmartScale",
+              "DocumentMoniker": "C:\\Users\\itd33.P2\\Documents\\Automation Enginner\\app\\mp_RNP\\1auto\\Smartscalemp V3Auto\\Smartscalemp V4Auto\\SmartScale\\SmartScale\\SmartScale.csproj",
+              "RelativeDocumentMoniker": "SmartScale\\SmartScale.csproj",
+              "ToolTip": "C:\\Users\\itd33.P2\\Documents\\Automation Enginner\\app\\mp_RNP\\1auto\\Smartscalemp V3Auto\\Smartscalemp V4Auto\\SmartScale\\SmartScale\\SmartScale.csproj",
+              "RelativeToolTip": "SmartScale\\SmartScale.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2025-12-10T06:46:15.787Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "frmTimbang.cs",
+              "DocumentMoniker": "C:\\Users\\itd33.P2\\Documents\\Automation Enginner\\app\\mp_RNP\\1auto\\Smartscalemp V3Auto\\Smartscalemp V4Auto\\SmartScale\\SmartScale\\frmTimbang.cs",
+              "RelativeDocumentMoniker": "SmartScale\\frmTimbang.cs",
+              "ToolTip": "C:\\Users\\itd33.P2\\Documents\\Automation Enginner\\app\\mp_RNP\\1auto\\Smartscalemp V3Auto\\Smartscalemp V4Auto\\SmartScale\\SmartScale\\frmTimbang.cs",
+              "RelativeToolTip": "SmartScale\\frmTimbang.cs",
+              "ViewState": "AgIAAL4AAAAAAAAAAADwv88AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-09T09:04:30.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Readme.txt",
+              "DocumentMoniker": "C:\\Users\\itd33.P2\\Documents\\Automation Enginner\\app\\mp_RNP\\1auto\\Smartscalemp V3Auto\\Smartscalemp V4Auto\\SmartScale\\packages\\MySql.Data.6.9.12\\Readme.txt",
+              "RelativeDocumentMoniker": "packages\\MySql.Data.6.9.12\\Readme.txt",
+              "ToolTip": "C:\\Users\\itd33.P2\\Documents\\Automation Enginner\\app\\mp_RNP\\1auto\\Smartscalemp V3Auto\\Smartscalemp V4Auto\\SmartScale\\packages\\MySql.Data.6.9.12\\Readme.txt",
+              "RelativeToolTip": "packages\\MySql.Data.6.9.12\\Readme.txt",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvw4AAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-01-09T15:26:51.608Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DataServices.cs",
+              "DocumentMoniker": "C:\\Users\\itd33.P2\\Documents\\Automation Enginner\\app\\mp_RNP\\1auto\\Smartscalemp V3Auto\\Smartscalemp V4Auto\\SmartScale\\SmartScale\\DataServices.cs",
+              "RelativeDocumentMoniker": "SmartScale\\DataServices.cs",
+              "ToolTip": "C:\\Users\\itd33.P2\\Documents\\Automation Enginner\\app\\mp_RNP\\1auto\\Smartscalemp V3Auto\\Smartscalemp V4Auto\\SmartScale\\SmartScale\\DataServices.cs",
+              "RelativeToolTip": "SmartScale\\DataServices.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-01-09T15:12:25.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "frmTimbang.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\itd33.P2\\Documents\\Automation Enginner\\app\\mp_RNP\\1auto\\Smartscalemp V3Auto\\Smartscalemp V4Auto\\SmartScale\\SmartScale\\frmTimbang.cs",
+              "RelativeDocumentMoniker": "SmartScale\\frmTimbang.cs",
+              "ToolTip": "C:\\Users\\itd13\\Pictures\\dim\\1auto\\1auto\\Smartscalemp\\Smartscalemp V3Auto\\SmartScale\\SmartScale\\frmTimbang.cs [Design]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\itd13\\Pictures\\dim\\1auto\\1auto\\Smartscalemp\\Smartscalemp V3Auto\\SmartScale\\SmartScale\\frmTimbang.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-12-22T07:54:44.676Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

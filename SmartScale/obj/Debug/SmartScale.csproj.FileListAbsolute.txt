@@ -1,0 +1,374 @@
+D:\BaseProject\CSharp\SmartScale\SmartScale\obj\Debug\SmartScale.csproj.AssemblyReference.cache
+D:\BaseProject\CSharp\SmartScale\SmartScale\obj\Debug\SmartScale.frmTimbang.resources
+D:\BaseProject\CSharp\SmartScale\SmartScale\obj\Debug\SmartScale.Properties.Resources.resources
+D:\BaseProject\CSharp\SmartScale\SmartScale\obj\Debug\SmartScale.csproj.GenerateResource.cache
+D:\BaseProject\CSharp\SmartScale\SmartScale\obj\Debug\SmartScale.csproj.CoreCompileInputs.cache
+D:\BaseProject\CSharp\SmartScale\SmartScale\bin\Debug\SmartScale.exe.config
+D:\BaseProject\CSharp\SmartScale\SmartScale\bin\Debug\SmartScale.exe
+D:\BaseProject\CSharp\SmartScale\SmartScale\bin\Debug\SmartScale.pdb
+D:\BaseProject\CSharp\SmartScale\SmartScale\bin\Debug\MySql.Data.dll
+D:\BaseProject\CSharp\SmartScale\SmartScale\obj\Debug\SmartScale.exe
+D:\BaseProject\CSharp\SmartScale\SmartScale\obj\Debug\SmartScale.pdb
+D:\BaseProject\CSharp\SmartScale\SmartScale\obj\Debug\SmartScale.csproj.Up2Date
+C:\Users\itd13\Documents\SmartScale\SmartScale\bin\Debug\SmartScale.exe.config
+C:\Users\itd13\Documents\SmartScale\SmartScale\bin\Debug\SmartScale.exe
+C:\Users\itd13\Documents\SmartScale\SmartScale\bin\Debug\SmartScale.pdb
+C:\Users\itd13\Documents\SmartScale\SmartScale\bin\Debug\MySql.Data.dll
+C:\Users\itd13\Documents\SmartScale\SmartScale\obj\Debug\SmartScale.csproj.AssemblyReference.cache
+C:\Users\itd13\Documents\SmartScale\SmartScale\obj\Debug\SmartScale.frmTimbang.resources
+C:\Users\itd13\Documents\SmartScale\SmartScale\obj\Debug\SmartScale.Properties.Resources.resources
+C:\Users\itd13\Documents\SmartScale\SmartScale\obj\Debug\SmartScale.csproj.GenerateResource.cache
+C:\Users\itd13\Documents\SmartScale\SmartScale\obj\Debug\SmartScale.csproj.CoreCompileInputs.cache
+C:\Users\itd13\Documents\SmartScale\SmartScale\obj\Debug\SmartScale.csproj.Up2Date
+C:\Users\itd13\Documents\SmartScale\SmartScale\obj\Debug\SmartScale.exe
+C:\Users\itd13\Documents\SmartScale\SmartScale\obj\Debug\SmartScale.pdb
+C:\Users\itd13\Documents\SmartScale\SmartScale\bin\Debug\MQTTnet.dll
+C:\Users\itd13\Pictures\DIM\SmartScale\SmartScale\bin\Debug\SmartScale.exe.config
+C:\Users\itd13\Pictures\DIM\SmartScale\SmartScale\bin\Debug\SmartScale.exe
+C:\Users\itd13\Pictures\DIM\SmartScale\SmartScale\bin\Debug\SmartScale.pdb
+C:\Users\itd13\Pictures\DIM\SmartScale\SmartScale\bin\Debug\MQTTnet.dll
+C:\Users\itd13\Pictures\DIM\SmartScale\SmartScale\bin\Debug\MySql.Data.dll
+C:\Users\itd13\Pictures\DIM\SmartScale\SmartScale\obj\Debug\SmartScale.csproj.AssemblyReference.cache
+C:\Users\itd13\Pictures\DIM\SmartScale\SmartScale\obj\Debug\SmartScale.frmTimbang.resources
+C:\Users\itd13\Pictures\DIM\SmartScale\SmartScale\obj\Debug\SmartScale.Properties.Resources.resources
+C:\Users\itd13\Pictures\DIM\SmartScale\SmartScale\obj\Debug\SmartScale.csproj.GenerateResource.cache
+C:\Users\itd13\Pictures\DIM\SmartScale\SmartScale\obj\Debug\SmartScale.csproj.CoreCompileInputs.cache
+C:\Users\itd13\Pictures\DIM\SmartScale\SmartScale\obj\Debug\SmartScale.csproj.Up2Date
+C:\Users\itd13\Pictures\DIM\SmartScale\SmartScale\obj\Debug\SmartScale.exe
+C:\Users\itd13\Pictures\DIM\SmartScale\SmartScale\obj\Debug\SmartScale.pdb
+C:\Users\itd13\Pictures\DIM\SmartScale\SmartScale\bin\Debug\Newtonsoft.Json.dll
+C:\Users\itd13\Pictures\DIM\SmartScale\SmartScale\bin\Debug\Newtonsoft.Json.xml
+C:\Users\itd13\Pictures\DIM\SmartScale\SmartScale\bin\Debug\C1.Win.C1Editor.2.dll
+C:\Users\itd13\Pictures\DIM\SmartScale\SmartScale\bin\Debug\C1.Win.C1Editor.2.xml
+C:\Users\itd13\Pictures\DIM\SmartScale\SmartScale\obj\Debug\SmartScale.exe.licenses
+C:\Users\itd13\Pictures\dim\mp\Smartscalemp\SmartScale\SmartScale\bin\Debug\SmartScale.exe.config
+C:\Users\itd13\Pictures\dim\mp\Smartscalemp\SmartScale\SmartScale\bin\Debug\SmartScale.exe
+C:\Users\itd13\Pictures\dim\mp\Smartscalemp\SmartScale\SmartScale\bin\Debug\SmartScale.pdb
+C:\Users\itd13\Pictures\dim\mp\Smartscalemp\SmartScale\SmartScale\bin\Debug\C1.Win.C1Editor.2.dll
+C:\Users\itd13\Pictures\dim\mp\Smartscalemp\SmartScale\SmartScale\bin\Debug\MQTTnet.dll
+C:\Users\itd13\Pictures\dim\mp\Smartscalemp\SmartScale\SmartScale\bin\Debug\MySql.Data.dll
+C:\Users\itd13\Pictures\dim\mp\Smartscalemp\SmartScale\SmartScale\bin\Debug\Newtonsoft.Json.dll
+C:\Users\itd13\Pictures\dim\mp\Smartscalemp\SmartScale\SmartScale\bin\Debug\C1.Win.C1Editor.2.xml
+C:\Users\itd13\Pictures\dim\mp\Smartscalemp\SmartScale\SmartScale\bin\Debug\Newtonsoft.Json.xml
+C:\Users\itd13\Pictures\dim\mp\Smartscalemp\SmartScale\SmartScale\obj\Debug\SmartScale.csproj.AssemblyReference.cache
+C:\Users\itd13\Pictures\dim\mp\Smartscalemp\SmartScale\SmartScale\obj\Debug\SmartScale.frmTimbang.resources
+C:\Users\itd13\Pictures\dim\mp\Smartscalemp\SmartScale\SmartScale\obj\Debug\SmartScale.Properties.Resources.resources
+C:\Users\itd13\Pictures\dim\mp\Smartscalemp\SmartScale\SmartScale\obj\Debug\SmartScale.csproj.GenerateResource.cache
+C:\Users\itd13\Pictures\dim\mp\Smartscalemp\SmartScale\SmartScale\obj\Debug\SmartScale.exe.licenses
+C:\Users\itd13\Pictures\dim\mp\Smartscalemp\SmartScale\SmartScale\obj\Debug\SmartScale.csproj.CoreCompileInputs.cache
+C:\Users\itd13\Pictures\dim\mp\Smartscalemp\SmartScale\SmartScale\obj\Debug\SmartScale.csproj.Up2Date
+C:\Users\itd13\Pictures\dim\mp\Smartscalemp\SmartScale\SmartScale\obj\Debug\SmartScale.exe
+C:\Users\itd13\Pictures\dim\mp\Smartscalemp\SmartScale\SmartScale\obj\Debug\SmartScale.pdb
+C:\Users\itd33.P2\Documents\Automation Enginner\app\mp_RNP\1auto\Smartscalemp\Smartscalemp\SmartScale\SmartScale\bin\Debug\SmartScale.exe.config
+C:\Users\itd33.P2\Documents\Automation Enginner\app\mp_RNP\1auto\Smartscalemp\Smartscalemp\SmartScale\SmartScale\bin\Debug\SmartScale.exe
+C:\Users\itd33.P2\Documents\Automation Enginner\app\mp_RNP\1auto\Smartscalemp\Smartscalemp\SmartScale\SmartScale\bin\Debug\SmartScale.pdb
+C:\Users\itd33.P2\Documents\Automation Enginner\app\mp_RNP\1auto\Smartscalemp\Smartscalemp\SmartScale\SmartScale\bin\Debug\C1.Win.C1Editor.2.dll
+C:\Users\itd33.P2\Documents\Automation Enginner\app\mp_RNP\1auto\Smartscalemp\Smartscalemp\SmartScale\SmartScale\bin\Debug\MQTTnet.dll
+C:\Users\itd33.P2\Documents\Automation Enginner\app\mp_RNP\1auto\Smartscalemp\Smartscalemp\SmartScale\SmartScale\bin\Debug\MySql.Data.dll
+C:\Users\itd33.P2\Documents\Automation Enginner\app\mp_RNP\1auto\Smartscalemp\Smartscalemp\SmartScale\SmartScale\bin\Debug\Newtonsoft.Json.dll
+C:\Users\itd33.P2\Documents\Automation Enginner\app\mp_RNP\1auto\Smartscalemp\Smartscalemp\SmartScale\SmartScale\bin\Debug\C1.Win.C1Editor.2.xml
+C:\Users\itd33.P2\Documents\Automation Enginner\app\mp_RNP\1auto\Smartscalemp\Smartscalemp\SmartScale\SmartScale\bin\Debug\Newtonsoft.Json.xml
+C:\Users\itd33.P2\Documents\Automation Enginner\app\mp_RNP\1auto\Smartscalemp\Smartscalemp\SmartScale\SmartScale\obj\Debug\SmartScale.csproj.AssemblyReference.cache
+C:\Users\itd33.P2\Documents\Automation Enginner\app\mp_RNP\1auto\Smartscalemp\Smartscalemp\SmartScale\SmartScale\obj\Debug\SmartScale.frmTimbang.resources
+C:\Users\itd33.P2\Documents\Automation Enginner\app\mp_RNP\1auto\Smartscalemp\Smartscalemp\SmartScale\SmartScale\obj\Debug\SmartScale.Properties.Resources.resources
+C:\Users\itd33.P2\Documents\Automation Enginner\app\mp_RNP\1auto\Smartscalemp\Smartscalemp\SmartScale\SmartScale\obj\Debug\SmartScale.csproj.GenerateResource.cache
+C:\Users\itd33.P2\Documents\Automation Enginner\app\mp_RNP\1auto\Smartscalemp\Smartscalemp\SmartScale\SmartScale\obj\Debug\SmartScale.exe.licenses
+C:\Users\itd33.P2\Documents\Automation Enginner\app\mp_RNP\1auto\Smartscalemp\Smartscalemp\SmartScale\SmartScale\obj\Debug\SmartScale.csproj.CoreCompileInputs.cache
+C:\Users\itd33.P2\Documents\Automation Enginner\app\mp_RNP\1auto\Smartscalemp\Smartscalemp\SmartScale\SmartScale\obj\Debug\SmartScale.csproj.Up2Date
+C:\Users\itd33.P2\Documents\Automation Enginner\app\mp_RNP\1auto\Smartscalemp\Smartscalemp\SmartScale\SmartScale\obj\Debug\SmartScale.exe
+C:\Users\itd33.P2\Documents\Automation Enginner\app\mp_RNP\1auto\Smartscalemp\Smartscalemp\SmartScale\SmartScale\obj\Debug\SmartScale.pdb
+C:\Users\itd13\Pictures\dim\1auto\1auto\Smartscalemp\Smartscalemp\SmartScale\SmartScale\bin\Debug\SmartScale.exe.config
+C:\Users\itd13\Pictures\dim\1auto\1auto\Smartscalemp\Smartscalemp\SmartScale\SmartScale\bin\Debug\SmartScale.exe
+C:\Users\itd13\Pictures\dim\1auto\1auto\Smartscalemp\Smartscalemp\SmartScale\SmartScale\bin\Debug\SmartScale.pdb
+C:\Users\itd13\Pictures\dim\1auto\1auto\Smartscalemp\Smartscalemp\SmartScale\SmartScale\bin\Debug\C1.Win.C1Editor.2.dll
+C:\Users\itd13\Pictures\dim\1auto\1auto\Smartscalemp\Smartscalemp\SmartScale\SmartScale\bin\Debug\MQTTnet.dll
+C:\Users\itd13\Pictures\dim\1auto\1auto\Smartscalemp\Smartscalemp\SmartScale\SmartScale\bin\Debug\MySql.Data.dll
+C:\Users\itd13\Pictures\dim\1auto\1auto\Smartscalemp\Smartscalemp\SmartScale\SmartScale\bin\Debug\Newtonsoft.Json.dll
+C:\Users\itd13\Pictures\dim\1auto\1auto\Smartscalemp\Smartscalemp\SmartScale\SmartScale\bin\Debug\C1.Win.C1Editor.2.xml
+C:\Users\itd13\Pictures\dim\1auto\1auto\Smartscalemp\Smartscalemp\SmartScale\SmartScale\bin\Debug\Newtonsoft.Json.xml
+C:\Users\itd13\Pictures\dim\1auto\1auto\Smartscalemp\Smartscalemp\SmartScale\SmartScale\obj\Debug\SmartScale.csproj.AssemblyReference.cache
+C:\Users\itd13\Pictures\dim\1auto\1auto\Smartscalemp\Smartscalemp\SmartScale\SmartScale\obj\Debug\SmartScale.frmTimbang.resources
+C:\Users\itd13\Pictures\dim\1auto\1auto\Smartscalemp\Smartscalemp\SmartScale\SmartScale\obj\Debug\SmartScale.Properties.Resources.resources
+C:\Users\itd13\Pictures\dim\1auto\1auto\Smartscalemp\Smartscalemp\SmartScale\SmartScale\obj\Debug\SmartScale.csproj.GenerateResource.cache
+C:\Users\itd13\Pictures\dim\1auto\1auto\Smartscalemp\Smartscalemp\SmartScale\SmartScale\obj\Debug\SmartScale.exe.licenses
+C:\Users\itd13\Pictures\dim\1auto\1auto\Smartscalemp\Smartscalemp\SmartScale\SmartScale\obj\Debug\SmartScale.csproj.CoreCompileInputs.cache
+C:\Users\itd13\Pictures\dim\1auto\1auto\Smartscalemp\Smartscalemp\SmartScale\SmartScale\obj\Debug\SmartScale.csproj.Up2Date
+C:\Users\itd13\Pictures\dim\1auto\1auto\Smartscalemp\Smartscalemp\SmartScale\SmartScale\obj\Debug\SmartScale.exe
+C:\Users\itd13\Pictures\dim\1auto\1auto\Smartscalemp\Smartscalemp\SmartScale\SmartScale\obj\Debug\SmartScale.pdb
+C:\Users\itd13\Pictures\dim\1auto\1auto\Smartscalemp\Smartscalemp V2Auto\SmartScale\SmartScale\bin\Debug\SmartScale.exe.config
+C:\Users\itd13\Pictures\dim\1auto\1auto\Smartscalemp\Smartscalemp V2Auto\SmartScale\SmartScale\bin\Debug\SmartScale.exe
+C:\Users\itd13\Pictures\dim\1auto\1auto\Smartscalemp\Smartscalemp V2Auto\SmartScale\SmartScale\bin\Debug\SmartScale.pdb
+C:\Users\itd13\Pictures\dim\1auto\1auto\Smartscalemp\Smartscalemp V2Auto\SmartScale\SmartScale\bin\Debug\C1.Win.C1Editor.2.dll
+C:\Users\itd13\Pictures\dim\1auto\1auto\Smartscalemp\Smartscalemp V2Auto\SmartScale\SmartScale\bin\Debug\MQTTnet.dll
+C:\Users\itd13\Pictures\dim\1auto\1auto\Smartscalemp\Smartscalemp V2Auto\SmartScale\SmartScale\bin\Debug\MySql.Data.dll
+C:\Users\itd13\Pictures\dim\1auto\1auto\Smartscalemp\Smartscalemp V2Auto\SmartScale\SmartScale\bin\Debug\Newtonsoft.Json.dll
+C:\Users\itd13\Pictures\dim\1auto\1auto\Smartscalemp\Smartscalemp V2Auto\SmartScale\SmartScale\bin\Debug\C1.Win.C1Editor.2.xml
+C:\Users\itd13\Pictures\dim\1auto\1auto\Smartscalemp\Smartscalemp V2Auto\SmartScale\SmartScale\bin\Debug\Newtonsoft.Json.xml
+C:\Users\itd13\Pictures\dim\1auto\1auto\Smartscalemp\Smartscalemp V2Auto\SmartScale\SmartScale\obj\Debug\SmartScale.csproj.AssemblyReference.cache
+C:\Users\itd13\Pictures\dim\1auto\1auto\Smartscalemp\Smartscalemp V2Auto\SmartScale\SmartScale\obj\Debug\SmartScale.frmTimbang.resources
+C:\Users\itd13\Pictures\dim\1auto\1auto\Smartscalemp\Smartscalemp V2Auto\SmartScale\SmartScale\obj\Debug\SmartScale.Properties.Resources.resources
+C:\Users\itd13\Pictures\dim\1auto\1auto\Smartscalemp\Smartscalemp V2Auto\SmartScale\SmartScale\obj\Debug\SmartScale.csproj.GenerateResource.cache
+C:\Users\itd13\Pictures\dim\1auto\1auto\Smartscalemp\Smartscalemp V2Auto\SmartScale\SmartScale\obj\Debug\SmartScale.exe.licenses
+C:\Users\itd13\Pictures\dim\1auto\1auto\Smartscalemp\Smartscalemp V2Auto\SmartScale\SmartScale\obj\Debug\SmartScale.csproj.CoreCompileInputs.cache
+C:\Users\itd13\Pictures\dim\1auto\1auto\Smartscalemp\Smartscalemp V2Auto\SmartScale\SmartScale\obj\Debug\SmartScale.csproj.Up2Date
+C:\Users\itd13\Pictures\dim\1auto\1auto\Smartscalemp\Smartscalemp V2Auto\SmartScale\SmartScale\obj\Debug\SmartScale.exe
+C:\Users\itd13\Pictures\dim\1auto\1auto\Smartscalemp\Smartscalemp V2Auto\SmartScale\SmartScale\obj\Debug\SmartScale.pdb
+C:\Users\itd13\Pictures\dim\1auto\1auto\Smartscalemp\Smartscalemp V3Auto\SmartScale\SmartScale\bin\Debug\SmartScale.exe.config
+C:\Users\itd13\Pictures\dim\1auto\1auto\Smartscalemp\Smartscalemp V3Auto\SmartScale\SmartScale\bin\Debug\SmartScale.exe
+C:\Users\itd13\Pictures\dim\1auto\1auto\Smartscalemp\Smartscalemp V3Auto\SmartScale\SmartScale\bin\Debug\SmartScale.pdb
+C:\Users\itd13\Pictures\dim\1auto\1auto\Smartscalemp\Smartscalemp V3Auto\SmartScale\SmartScale\bin\Debug\C1.Win.C1Editor.2.dll
+C:\Users\itd13\Pictures\dim\1auto\1auto\Smartscalemp\Smartscalemp V3Auto\SmartScale\SmartScale\bin\Debug\MQTTnet.dll
+C:\Users\itd13\Pictures\dim\1auto\1auto\Smartscalemp\Smartscalemp V3Auto\SmartScale\SmartScale\bin\Debug\MySql.Data.dll
+C:\Users\itd13\Pictures\dim\1auto\1auto\Smartscalemp\Smartscalemp V3Auto\SmartScale\SmartScale\bin\Debug\Newtonsoft.Json.dll
+C:\Users\itd13\Pictures\dim\1auto\1auto\Smartscalemp\Smartscalemp V3Auto\SmartScale\SmartScale\bin\Debug\C1.Win.C1Editor.2.xml
+C:\Users\itd13\Pictures\dim\1auto\1auto\Smartscalemp\Smartscalemp V3Auto\SmartScale\SmartScale\bin\Debug\Newtonsoft.Json.xml
+C:\Users\itd13\Pictures\dim\1auto\1auto\Smartscalemp\Smartscalemp V3Auto\SmartScale\SmartScale\obj\Debug\SmartScale.csproj.AssemblyReference.cache
+C:\Users\itd13\Pictures\dim\1auto\1auto\Smartscalemp\Smartscalemp V3Auto\SmartScale\SmartScale\obj\Debug\SmartScale.frmTimbang.resources
+C:\Users\itd13\Pictures\dim\1auto\1auto\Smartscalemp\Smartscalemp V3Auto\SmartScale\SmartScale\obj\Debug\SmartScale.Properties.Resources.resources
+C:\Users\itd13\Pictures\dim\1auto\1auto\Smartscalemp\Smartscalemp V3Auto\SmartScale\SmartScale\obj\Debug\SmartScale.csproj.GenerateResource.cache
+C:\Users\itd13\Pictures\dim\1auto\1auto\Smartscalemp\Smartscalemp V3Auto\SmartScale\SmartScale\obj\Debug\SmartScale.exe.licenses
+C:\Users\itd13\Pictures\dim\1auto\1auto\Smartscalemp\Smartscalemp V3Auto\SmartScale\SmartScale\obj\Debug\SmartScale.csproj.CoreCompileInputs.cache
+C:\Users\itd13\Pictures\dim\1auto\1auto\Smartscalemp\Smartscalemp V3Auto\SmartScale\SmartScale\obj\Debug\SmartScale.csproj.Up2Date
+C:\Users\itd13\Pictures\dim\1auto\1auto\Smartscalemp\Smartscalemp V3Auto\SmartScale\SmartScale\obj\Debug\SmartScale.exe
+C:\Users\itd13\Pictures\dim\1auto\1auto\Smartscalemp\Smartscalemp V3Auto\SmartScale\SmartScale\obj\Debug\SmartScale.pdb
+C:\Users\itd33.P2\Documents\Automation Enginner\app\mp_RNP\1auto\Smartscalemp V3Auto\Smartscalemp V3Auto\SmartScale\SmartScale\bin\Debug\SmartScale.exe.config
+C:\Users\itd33.P2\Documents\Automation Enginner\app\mp_RNP\1auto\Smartscalemp V3Auto\Smartscalemp V3Auto\SmartScale\SmartScale\bin\Debug\SmartScale.exe
+C:\Users\itd33.P2\Documents\Automation Enginner\app\mp_RNP\1auto\Smartscalemp V3Auto\Smartscalemp V3Auto\SmartScale\SmartScale\bin\Debug\SmartScale.pdb
+C:\Users\itd33.P2\Documents\Automation Enginner\app\mp_RNP\1auto\Smartscalemp V3Auto\Smartscalemp V3Auto\SmartScale\SmartScale\bin\Debug\C1.Win.C1Editor.2.dll
+C:\Users\itd33.P2\Documents\Automation Enginner\app\mp_RNP\1auto\Smartscalemp V3Auto\Smartscalemp V3Auto\SmartScale\SmartScale\bin\Debug\MQTTnet.dll
+C:\Users\itd33.P2\Documents\Automation Enginner\app\mp_RNP\1auto\Smartscalemp V3Auto\Smartscalemp V3Auto\SmartScale\SmartScale\bin\Debug\MySql.Data.dll
+C:\Users\itd33.P2\Documents\Automation Enginner\app\mp_RNP\1auto\Smartscalemp V3Auto\Smartscalemp V3Auto\SmartScale\SmartScale\bin\Debug\Newtonsoft.Json.dll
+C:\Users\itd33.P2\Documents\Automation Enginner\app\mp_RNP\1auto\Smartscalemp V3Auto\Smartscalemp V3Auto\SmartScale\SmartScale\bin\Debug\C1.Win.C1Editor.2.xml
+C:\Users\itd33.P2\Documents\Automation Enginner\app\mp_RNP\1auto\Smartscalemp V3Auto\Smartscalemp V3Auto\SmartScale\SmartScale\bin\Debug\Newtonsoft.Json.xml
+C:\Users\itd33.P2\Documents\Automation Enginner\app\mp_RNP\1auto\Smartscalemp V3Auto\Smartscalemp V3Auto\SmartScale\SmartScale\obj\Debug\SmartScale.csproj.AssemblyReference.cache
+C:\Users\itd33.P2\Documents\Automation Enginner\app\mp_RNP\1auto\Smartscalemp V3Auto\Smartscalemp V3Auto\SmartScale\SmartScale\obj\Debug\SmartScale.frmTimbang.resources
+C:\Users\itd33.P2\Documents\Automation Enginner\app\mp_RNP\1auto\Smartscalemp V3Auto\Smartscalemp V3Auto\SmartScale\SmartScale\obj\Debug\SmartScale.Properties.Resources.resources
+C:\Users\itd33.P2\Documents\Automation Enginner\app\mp_RNP\1auto\Smartscalemp V3Auto\Smartscalemp V3Auto\SmartScale\SmartScale\obj\Debug\SmartScale.csproj.GenerateResource.cache
+C:\Users\itd33.P2\Documents\Automation Enginner\app\mp_RNP\1auto\Smartscalemp V3Auto\Smartscalemp V3Auto\SmartScale\SmartScale\obj\Debug\SmartScale.exe.licenses
+C:\Users\itd33.P2\Documents\Automation Enginner\app\mp_RNP\1auto\Smartscalemp V3Auto\Smartscalemp V3Auto\SmartScale\SmartScale\obj\Debug\SmartScale.csproj.CoreCompileInputs.cache
+C:\Users\itd33.P2\Documents\Automation Enginner\app\mp_RNP\1auto\Smartscalemp V3Auto\Smartscalemp V3Auto\SmartScale\SmartScale\obj\Debug\SmartScale.csproj.Up2Date
+C:\Users\itd33.P2\Documents\Automation Enginner\app\mp_RNP\1auto\Smartscalemp V3Auto\Smartscalemp V3Auto\SmartScale\SmartScale\obj\Debug\SmartScale.exe
+C:\Users\itd33.P2\Documents\Automation Enginner\app\mp_RNP\1auto\Smartscalemp V3Auto\Smartscalemp V3Auto\SmartScale\SmartScale\obj\Debug\SmartScale.pdb
+C:\Users\itd33.P2\Documents\Automation Enginner\app\mp_RNP\1auto\Smartscalemp V3Auto\Smartscalemp V4Auto\SmartScale\SmartScale\bin\Debug\SmartScale.exe.config
+C:\Users\itd33.P2\Documents\Automation Enginner\app\mp_RNP\1auto\Smartscalemp V3Auto\Smartscalemp V4Auto\SmartScale\SmartScale\bin\Debug\SmartScale.exe
+C:\Users\itd33.P2\Documents\Automation Enginner\app\mp_RNP\1auto\Smartscalemp V3Auto\Smartscalemp V4Auto\SmartScale\SmartScale\bin\Debug\SmartScale.pdb
+C:\Users\itd33.P2\Documents\Automation Enginner\app\mp_RNP\1auto\Smartscalemp V3Auto\Smartscalemp V4Auto\SmartScale\SmartScale\bin\Debug\C1.Win.C1Editor.2.dll
+C:\Users\itd33.P2\Documents\Automation Enginner\app\mp_RNP\1auto\Smartscalemp V3Auto\Smartscalemp V4Auto\SmartScale\SmartScale\bin\Debug\MQTTnet.dll
+C:\Users\itd33.P2\Documents\Automation Enginner\app\mp_RNP\1auto\Smartscalemp V3Auto\Smartscalemp V4Auto\SmartScale\SmartScale\bin\Debug\MySql.Data.dll
+C:\Users\itd33.P2\Documents\Automation Enginner\app\mp_RNP\1auto\Smartscalemp V3Auto\Smartscalemp V4Auto\SmartScale\SmartScale\bin\Debug\Newtonsoft.Json.dll
+C:\Users\itd33.P2\Documents\Automation Enginner\app\mp_RNP\1auto\Smartscalemp V3Auto\Smartscalemp V4Auto\SmartScale\SmartScale\bin\Debug\C1.Win.C1Editor.2.xml
+C:\Users\itd33.P2\Documents\Automation Enginner\app\mp_RNP\1auto\Smartscalemp V3Auto\Smartscalemp V4Auto\SmartScale\SmartScale\bin\Debug\Newtonsoft.Json.xml
+C:\Users\itd33.P2\Documents\Automation Enginner\app\mp_RNP\1auto\Smartscalemp V3Auto\Smartscalemp V4Auto\SmartScale\SmartScale\obj\Debug\SmartScale.csproj.AssemblyReference.cache
+C:\Users\itd33.P2\Documents\Automation Enginner\app\mp_RNP\1auto\Smartscalemp V3Auto\Smartscalemp V4Auto\SmartScale\SmartScale\obj\Debug\SmartScale.frmTimbang.resources
+C:\Users\itd33.P2\Documents\Automation Enginner\app\mp_RNP\1auto\Smartscalemp V3Auto\Smartscalemp V4Auto\SmartScale\SmartScale\obj\Debug\SmartScale.Properties.Resources.resources
+C:\Users\itd33.P2\Documents\Automation Enginner\app\mp_RNP\1auto\Smartscalemp V3Auto\Smartscalemp V4Auto\SmartScale\SmartScale\obj\Debug\SmartScale.csproj.GenerateResource.cache
+C:\Users\itd33.P2\Documents\Automation Enginner\app\mp_RNP\1auto\Smartscalemp V3Auto\Smartscalemp V4Auto\SmartScale\SmartScale\obj\Debug\SmartScale.exe.licenses
+C:\Users\itd33.P2\Documents\Automation Enginner\app\mp_RNP\1auto\Smartscalemp V3Auto\Smartscalemp V4Auto\SmartScale\SmartScale\obj\Debug\SmartScale.csproj.CoreCompileInputs.cache
+C:\Users\itd33.P2\Documents\Automation Enginner\app\mp_RNP\1auto\Smartscalemp V3Auto\Smartscalemp V4Auto\SmartScale\SmartScale\obj\Debug\SmartScale.csproj.Up2Date
+C:\Users\itd33.P2\Documents\Automation Enginner\app\mp_RNP\1auto\Smartscalemp V3Auto\Smartscalemp V4Auto\SmartScale\SmartScale\obj\Debug\SmartScale.exe
+C:\Users\itd33.P2\Documents\Automation Enginner\app\mp_RNP\1auto\Smartscalemp V3Auto\Smartscalemp V4Auto\SmartScale\SmartScale\obj\Debug\SmartScale.pdb
+C:\Users\itd33.P2\Documents\Automation Enginner\app\mp_RNP\1auto\Smartscalemp V3Auto\Smartscalemp V5Auto\SmartScale\SmartScale\bin\Debug\SmartScale.exe.config
+C:\Users\itd33.P2\Documents\Automation Enginner\app\mp_RNP\1auto\Smartscalemp V3Auto\Smartscalemp V5Auto\SmartScale\SmartScale\bin\Debug\SmartScale.exe
+C:\Users\itd33.P2\Documents\Automation Enginner\app\mp_RNP\1auto\Smartscalemp V3Auto\Smartscalemp V5Auto\SmartScale\SmartScale\bin\Debug\SmartScale.pdb
+C:\Users\itd33.P2\Documents\Automation Enginner\app\mp_RNP\1auto\Smartscalemp V3Auto\Smartscalemp V5Auto\SmartScale\SmartScale\bin\Debug\C1.Win.C1Editor.2.dll
+C:\Users\itd33.P2\Documents\Automation Enginner\app\mp_RNP\1auto\Smartscalemp V3Auto\Smartscalemp V5Auto\SmartScale\SmartScale\bin\Debug\MQTTnet.dll
+C:\Users\itd33.P2\Documents\Automation Enginner\app\mp_RNP\1auto\Smartscalemp V3Auto\Smartscalemp V5Auto\SmartScale\SmartScale\bin\Debug\MySql.Data.dll
+C:\Users\itd33.P2\Documents\Automation Enginner\app\mp_RNP\1auto\Smartscalemp V3Auto\Smartscalemp V5Auto\SmartScale\SmartScale\bin\Debug\Newtonsoft.Json.dll
+C:\Users\itd33.P2\Documents\Automation Enginner\app\mp_RNP\1auto\Smartscalemp V3Auto\Smartscalemp V5Auto\SmartScale\SmartScale\bin\Debug\C1.Win.C1Editor.2.xml
+C:\Users\itd33.P2\Documents\Automation Enginner\app\mp_RNP\1auto\Smartscalemp V3Auto\Smartscalemp V5Auto\SmartScale\SmartScale\bin\Debug\Newtonsoft.Json.xml
+C:\Users\itd33.P2\Documents\Automation Enginner\app\mp_RNP\1auto\Smartscalemp V3Auto\Smartscalemp V5Auto\SmartScale\SmartScale\obj\Debug\SmartScale.csproj.AssemblyReference.cache
+C:\Users\itd33.P2\Documents\Automation Enginner\app\mp_RNP\1auto\Smartscalemp V3Auto\Smartscalemp V5Auto\SmartScale\SmartScale\obj\Debug\SmartScale.frmTimbang.resources
+C:\Users\itd33.P2\Documents\Automation Enginner\app\mp_RNP\1auto\Smartscalemp V3Auto\Smartscalemp V5Auto\SmartScale\SmartScale\obj\Debug\SmartScale.Properties.Resources.resources
+C:\Users\itd33.P2\Documents\Automation Enginner\app\mp_RNP\1auto\Smartscalemp V3Auto\Smartscalemp V5Auto\SmartScale\SmartScale\obj\Debug\SmartScale.csproj.GenerateResource.cache
+C:\Users\itd33.P2\Documents\Automation Enginner\app\mp_RNP\1auto\Smartscalemp V3Auto\Smartscalemp V5Auto\SmartScale\SmartScale\obj\Debug\SmartScale.exe.licenses
+C:\Users\itd33.P2\Documents\Automation Enginner\app\mp_RNP\1auto\Smartscalemp V3Auto\Smartscalemp V5Auto\SmartScale\SmartScale\obj\Debug\SmartScale.csproj.CoreCompileInputs.cache
+C:\Users\itd33.P2\Documents\Automation Enginner\app\mp_RNP\1auto\Smartscalemp V3Auto\Smartscalemp V5Auto\SmartScale\SmartScale\obj\Debug\SmartScale.csproj.Up2Date
+C:\Users\itd33.P2\Documents\Automation Enginner\app\mp_RNP\1auto\Smartscalemp V3Auto\Smartscalemp V5Auto\SmartScale\SmartScale\obj\Debug\SmartScale.exe
+C:\Users\itd33.P2\Documents\Automation Enginner\app\mp_RNP\1auto\Smartscalemp V3Auto\Smartscalemp V5Auto\SmartScale\SmartScale\obj\Debug\SmartScale.pdb
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V3Auto\Smartscalemp V5Auto\SmartScale\SmartScale\bin\Debug\SmartScale.exe.config
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V3Auto\Smartscalemp V5Auto\SmartScale\SmartScale\bin\Debug\SmartScale.exe
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V3Auto\Smartscalemp V5Auto\SmartScale\SmartScale\bin\Debug\SmartScale.pdb
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V3Auto\Smartscalemp V5Auto\SmartScale\SmartScale\bin\Debug\MQTTnet.dll
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V3Auto\Smartscalemp V5Auto\SmartScale\SmartScale\bin\Debug\MySql.Data.dll
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V3Auto\Smartscalemp V5Auto\SmartScale\SmartScale\bin\Debug\Newtonsoft.Json.dll
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V3Auto\Smartscalemp V5Auto\SmartScale\SmartScale\bin\Debug\C1.Win.C1Editor.2.xml
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V3Auto\Smartscalemp V5Auto\SmartScale\SmartScale\bin\Debug\Newtonsoft.Json.xml
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V3Auto\Smartscalemp V5Auto\SmartScale\SmartScale\obj\Debug\SmartScale.csproj.AssemblyReference.cache
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V3Auto\Smartscalemp V5Auto\SmartScale\SmartScale\obj\Debug\SmartScale.frmTimbang.resources
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V3Auto\Smartscalemp V5Auto\SmartScale\SmartScale\obj\Debug\SmartScale.Properties.Resources.resources
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V3Auto\Smartscalemp V5Auto\SmartScale\SmartScale\obj\Debug\SmartScale.csproj.GenerateResource.cache
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V3Auto\Smartscalemp V5Auto\SmartScale\SmartScale\obj\Debug\SmartScale.exe.licenses
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V3Auto\Smartscalemp V5Auto\SmartScale\SmartScale\obj\Debug\SmartScale.csproj.CoreCompileInputs.cache
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V3Auto\Smartscalemp V5Auto\SmartScale\SmartScale\obj\Debug\SmartScale.csproj.Up2Date
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V3Auto\Smartscalemp V5Auto\SmartScale\SmartScale\obj\Debug\SmartScale.exe
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V3Auto\Smartscalemp V5Auto\SmartScale\SmartScale\obj\Debug\SmartScale.pdb
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V6Auto\SmartScale\SmartScale\bin\Debug\SmartScale.exe.config
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V6Auto\SmartScale\SmartScale\bin\Debug\SmartScale.exe
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V6Auto\SmartScale\SmartScale\bin\Debug\SmartScale.pdb
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V6Auto\SmartScale\SmartScale\bin\Debug\MQTTnet.dll
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V6Auto\SmartScale\SmartScale\bin\Debug\MySql.Data.dll
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V6Auto\SmartScale\SmartScale\bin\Debug\Newtonsoft.Json.dll
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V6Auto\SmartScale\SmartScale\bin\Debug\C1.Win.C1Editor.2.xml
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V6Auto\SmartScale\SmartScale\bin\Debug\Newtonsoft.Json.xml
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V6Auto\SmartScale\SmartScale\obj\Debug\SmartScale.csproj.AssemblyReference.cache
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V6Auto\SmartScale\SmartScale\obj\Debug\SmartScale.frmTimbang.resources
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V6Auto\SmartScale\SmartScale\obj\Debug\SmartScale.Properties.Resources.resources
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V6Auto\SmartScale\SmartScale\obj\Debug\SmartScale.csproj.GenerateResource.cache
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V6Auto\SmartScale\SmartScale\obj\Debug\SmartScale.exe.licenses
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V6Auto\SmartScale\SmartScale\obj\Debug\SmartScale.csproj.CoreCompileInputs.cache
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V6Auto\SmartScale\SmartScale\obj\Debug\SmartScale.csproj.Up2Date
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V6Auto\SmartScale\SmartScale\obj\Debug\SmartScale.exe
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V6Auto\SmartScale\SmartScale\obj\Debug\SmartScale.pdb
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V7Auto\SmartScale\SmartScale\bin\Debug\SmartScale.exe.config
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V7Auto\SmartScale\SmartScale\bin\Debug\SmartScale.exe
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V7Auto\SmartScale\SmartScale\bin\Debug\SmartScale.pdb
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V7Auto\SmartScale\SmartScale\bin\Debug\MQTTnet.dll
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V7Auto\SmartScale\SmartScale\bin\Debug\MySql.Data.dll
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V7Auto\SmartScale\SmartScale\bin\Debug\Newtonsoft.Json.dll
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V7Auto\SmartScale\SmartScale\bin\Debug\C1.Win.C1Editor.2.xml
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V7Auto\SmartScale\SmartScale\bin\Debug\Newtonsoft.Json.xml
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V7Auto\SmartScale\SmartScale\obj\Debug\SmartScale.csproj.AssemblyReference.cache
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V7Auto\SmartScale\SmartScale\obj\Debug\SmartScale.frmTimbang.resources
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V7Auto\SmartScale\SmartScale\obj\Debug\SmartScale.Properties.Resources.resources
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V7Auto\SmartScale\SmartScale\obj\Debug\SmartScale.csproj.GenerateResource.cache
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V7Auto\SmartScale\SmartScale\obj\Debug\SmartScale.exe.licenses
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V7Auto\SmartScale\SmartScale\obj\Debug\SmartScale.csproj.CoreCompileInputs.cache
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V7Auto\SmartScale\SmartScale\obj\Debug\SmartScale.csproj.Up2Date
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V7Auto\SmartScale\SmartScale\obj\Debug\SmartScale.exe
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V7Auto\SmartScale\SmartScale\obj\Debug\SmartScale.pdb
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V8Auto\SmartScale\SmartScale\bin\Debug\SmartScale.exe.config
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V8Auto\SmartScale\SmartScale\bin\Debug\SmartScale.exe
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V8Auto\SmartScale\SmartScale\bin\Debug\SmartScale.pdb
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V8Auto\SmartScale\SmartScale\bin\Debug\MQTTnet.dll
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V8Auto\SmartScale\SmartScale\bin\Debug\MySql.Data.dll
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V8Auto\SmartScale\SmartScale\bin\Debug\Newtonsoft.Json.dll
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V8Auto\SmartScale\SmartScale\bin\Debug\C1.Win.C1Editor.2.xml
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V8Auto\SmartScale\SmartScale\bin\Debug\Newtonsoft.Json.xml
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V8Auto\SmartScale\SmartScale\obj\Debug\SmartScale.csproj.AssemblyReference.cache
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V8Auto\SmartScale\SmartScale\obj\Debug\SmartScale.frmTimbang.resources
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V8Auto\SmartScale\SmartScale\obj\Debug\SmartScale.Properties.Resources.resources
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V8Auto\SmartScale\SmartScale\obj\Debug\SmartScale.csproj.GenerateResource.cache
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V8Auto\SmartScale\SmartScale\obj\Debug\SmartScale.exe.licenses
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V8Auto\SmartScale\SmartScale\obj\Debug\SmartScale.csproj.CoreCompileInputs.cache
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V8Auto\SmartScale\SmartScale\obj\Debug\SmartScale.csproj.Up2Date
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V8Auto\SmartScale\SmartScale\obj\Debug\SmartScale.exe
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V8Auto\SmartScale\SmartScale\obj\Debug\SmartScale.pdb
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V9Auto\SmartScale\SmartScale\bin\Debug\SmartScale.exe.config
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V9Auto\SmartScale\SmartScale\bin\Debug\SmartScale.exe
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V9Auto\SmartScale\SmartScale\bin\Debug\SmartScale.pdb
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V9Auto\SmartScale\SmartScale\bin\Debug\MQTTnet.dll
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V9Auto\SmartScale\SmartScale\bin\Debug\MySql.Data.dll
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V9Auto\SmartScale\SmartScale\bin\Debug\Newtonsoft.Json.dll
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V9Auto\SmartScale\SmartScale\bin\Debug\C1.Win.C1Editor.2.xml
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V9Auto\SmartScale\SmartScale\bin\Debug\Newtonsoft.Json.xml
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V9Auto\SmartScale\SmartScale\obj\Debug\SmartScale.csproj.AssemblyReference.cache
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V9Auto\SmartScale\SmartScale\obj\Debug\SmartScale.frmTimbang.resources
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V9Auto\SmartScale\SmartScale\obj\Debug\SmartScale.Properties.Resources.resources
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V9Auto\SmartScale\SmartScale\obj\Debug\SmartScale.csproj.GenerateResource.cache
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V9Auto\SmartScale\SmartScale\obj\Debug\SmartScale.exe.licenses
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V9Auto\SmartScale\SmartScale\obj\Debug\SmartScale.csproj.CoreCompileInputs.cache
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V9Auto\SmartScale\SmartScale\obj\Debug\SmartScale.csproj.Up2Date
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V9Auto\SmartScale\SmartScale\obj\Debug\SmartScale.exe
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V9Auto\SmartScale\SmartScale\obj\Debug\SmartScale.pdb
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V10Auto\SmartScale\SmartScale\bin\Debug\SmartScale.exe.config
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V10Auto\SmartScale\SmartScale\bin\Debug\SmartScale.exe
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V10Auto\SmartScale\SmartScale\bin\Debug\SmartScale.pdb
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V10Auto\SmartScale\SmartScale\bin\Debug\MQTTnet.dll
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V10Auto\SmartScale\SmartScale\bin\Debug\MySql.Data.dll
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V10Auto\SmartScale\SmartScale\bin\Debug\Newtonsoft.Json.dll
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V10Auto\SmartScale\SmartScale\bin\Debug\C1.Win.C1Editor.2.xml
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V10Auto\SmartScale\SmartScale\bin\Debug\Newtonsoft.Json.xml
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V10Auto\SmartScale\SmartScale\obj\Debug\SmartScale.csproj.AssemblyReference.cache
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V10Auto\SmartScale\SmartScale\obj\Debug\SmartScale.frmTimbang.resources
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V10Auto\SmartScale\SmartScale\obj\Debug\SmartScale.Properties.Resources.resources
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V10Auto\SmartScale\SmartScale\obj\Debug\SmartScale.csproj.GenerateResource.cache
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V10Auto\SmartScale\SmartScale\obj\Debug\SmartScale.exe.licenses
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V10Auto\SmartScale\SmartScale\obj\Debug\SmartScale.csproj.CoreCompileInputs.cache
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V10Auto\SmartScale\SmartScale\obj\Debug\SmartScale.csproj.Up2Date
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V10Auto\SmartScale\SmartScale\obj\Debug\SmartScale.exe
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V10Auto\SmartScale\SmartScale\obj\Debug\SmartScale.pdb
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V11Auto\SmartScale\SmartScale\bin\Debug\SmartScale.exe.config
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V11Auto\SmartScale\SmartScale\bin\Debug\SmartScale.exe
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V11Auto\SmartScale\SmartScale\bin\Debug\SmartScale.pdb
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V11Auto\SmartScale\SmartScale\bin\Debug\MQTTnet.dll
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V11Auto\SmartScale\SmartScale\bin\Debug\MySql.Data.dll
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V11Auto\SmartScale\SmartScale\bin\Debug\Newtonsoft.Json.dll
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V11Auto\SmartScale\SmartScale\bin\Debug\C1.Win.C1Editor.2.xml
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V11Auto\SmartScale\SmartScale\bin\Debug\Newtonsoft.Json.xml
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V11Auto\SmartScale\SmartScale\obj\Debug\SmartScale.csproj.AssemblyReference.cache
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V11Auto\SmartScale\SmartScale\obj\Debug\SmartScale.frmTimbang.resources
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V11Auto\SmartScale\SmartScale\obj\Debug\SmartScale.Properties.Resources.resources
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V11Auto\SmartScale\SmartScale\obj\Debug\SmartScale.csproj.GenerateResource.cache
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V11Auto\SmartScale\SmartScale\obj\Debug\SmartScale.exe.licenses
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V11Auto\SmartScale\SmartScale\obj\Debug\SmartScale.csproj.CoreCompileInputs.cache
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V11Auto\SmartScale\SmartScale\obj\Debug\SmartScale.csproj.Up2Date
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V11Auto\SmartScale\SmartScale\obj\Debug\SmartScale.exe
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V11Auto\SmartScale\SmartScale\obj\Debug\SmartScale.pdb
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V12Auto\SmartScale\SmartScale\bin\Debug\SmartScale.exe.config
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V12Auto\SmartScale\SmartScale\bin\Debug\SmartScale.exe
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V12Auto\SmartScale\SmartScale\bin\Debug\SmartScale.pdb
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V12Auto\SmartScale\SmartScale\bin\Debug\MQTTnet.dll
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V12Auto\SmartScale\SmartScale\bin\Debug\MySql.Data.dll
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V12Auto\SmartScale\SmartScale\bin\Debug\Newtonsoft.Json.dll
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V12Auto\SmartScale\SmartScale\bin\Debug\C1.Win.C1Editor.2.xml
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V12Auto\SmartScale\SmartScale\bin\Debug\Newtonsoft.Json.xml
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V12Auto\SmartScale\SmartScale\obj\Debug\SmartScale.csproj.AssemblyReference.cache
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V12Auto\SmartScale\SmartScale\obj\Debug\SmartScale.frmTimbang.resources
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V12Auto\SmartScale\SmartScale\obj\Debug\SmartScale.Properties.Resources.resources
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V12Auto\SmartScale\SmartScale\obj\Debug\SmartScale.csproj.GenerateResource.cache
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V12Auto\SmartScale\SmartScale\obj\Debug\SmartScale.exe.licenses
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V12Auto\SmartScale\SmartScale\obj\Debug\SmartScale.csproj.CoreCompileInputs.cache
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V12Auto\SmartScale\SmartScale\obj\Debug\SmartScale.csproj.Up2Date
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V12Auto\SmartScale\SmartScale\obj\Debug\SmartScale.exe
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V12Auto\SmartScale\SmartScale\obj\Debug\SmartScale.pdb
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V13Auto\Smartscalemp V13Auto\SmartScale\SmartScale\bin\Debug\SmartScale.exe.config
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V13Auto\Smartscalemp V13Auto\SmartScale\SmartScale\bin\Debug\SmartScale.exe
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V13Auto\Smartscalemp V13Auto\SmartScale\SmartScale\bin\Debug\SmartScale.pdb
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V13Auto\Smartscalemp V13Auto\SmartScale\SmartScale\bin\Debug\MQTTnet.dll
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V13Auto\Smartscalemp V13Auto\SmartScale\SmartScale\bin\Debug\MySql.Data.dll
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V13Auto\Smartscalemp V13Auto\SmartScale\SmartScale\bin\Debug\Newtonsoft.Json.dll
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V13Auto\Smartscalemp V13Auto\SmartScale\SmartScale\bin\Debug\C1.Win.C1Editor.2.xml
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V13Auto\Smartscalemp V13Auto\SmartScale\SmartScale\bin\Debug\Newtonsoft.Json.xml
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V13Auto\Smartscalemp V13Auto\SmartScale\SmartScale\obj\Debug\SmartScale.csproj.AssemblyReference.cache
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V13Auto\Smartscalemp V13Auto\SmartScale\SmartScale\obj\Debug\SmartScale.frmTimbang.resources
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V13Auto\Smartscalemp V13Auto\SmartScale\SmartScale\obj\Debug\SmartScale.Properties.Resources.resources
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V13Auto\Smartscalemp V13Auto\SmartScale\SmartScale\obj\Debug\SmartScale.csproj.GenerateResource.cache
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V13Auto\Smartscalemp V13Auto\SmartScale\SmartScale\obj\Debug\SmartScale.exe.licenses
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V13Auto\Smartscalemp V13Auto\SmartScale\SmartScale\obj\Debug\SmartScale.csproj.CoreCompileInputs.cache
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V13Auto\Smartscalemp V13Auto\SmartScale\SmartScale\obj\Debug\SmartScale.csproj.Up2Date
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V13Auto\Smartscalemp V13Auto\SmartScale\SmartScale\obj\Debug\SmartScale.exe
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V13Auto\Smartscalemp V13Auto\SmartScale\SmartScale\obj\Debug\SmartScale.pdb
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V14Auto\Smartscalemp V14Auto\Smartscalemp V13Auto\SmartScale\SmartScale\bin\Debug\SmartScale.exe.config
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V14Auto\Smartscalemp V14Auto\Smartscalemp V13Auto\SmartScale\SmartScale\bin\Debug\SmartScale.exe
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V14Auto\Smartscalemp V14Auto\Smartscalemp V13Auto\SmartScale\SmartScale\bin\Debug\SmartScale.pdb
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V14Auto\Smartscalemp V14Auto\Smartscalemp V13Auto\SmartScale\SmartScale\bin\Debug\MQTTnet.dll
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V14Auto\Smartscalemp V14Auto\Smartscalemp V13Auto\SmartScale\SmartScale\bin\Debug\MySql.Data.dll
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V14Auto\Smartscalemp V14Auto\Smartscalemp V13Auto\SmartScale\SmartScale\bin\Debug\Newtonsoft.Json.dll
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V14Auto\Smartscalemp V14Auto\Smartscalemp V13Auto\SmartScale\SmartScale\bin\Debug\C1.Win.C1Editor.2.xml
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V14Auto\Smartscalemp V14Auto\Smartscalemp V13Auto\SmartScale\SmartScale\bin\Debug\Newtonsoft.Json.xml
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V14Auto\Smartscalemp V14Auto\Smartscalemp V13Auto\SmartScale\SmartScale\obj\Debug\SmartScale.csproj.AssemblyReference.cache
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V14Auto\Smartscalemp V14Auto\Smartscalemp V13Auto\SmartScale\SmartScale\obj\Debug\SmartScale.frmTimbang.resources
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V14Auto\Smartscalemp V14Auto\Smartscalemp V13Auto\SmartScale\SmartScale\obj\Debug\SmartScale.Properties.Resources.resources
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V14Auto\Smartscalemp V14Auto\Smartscalemp V13Auto\SmartScale\SmartScale\obj\Debug\SmartScale.csproj.GenerateResource.cache
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V14Auto\Smartscalemp V14Auto\Smartscalemp V13Auto\SmartScale\SmartScale\obj\Debug\SmartScale.exe.licenses
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V14Auto\Smartscalemp V14Auto\Smartscalemp V13Auto\SmartScale\SmartScale\obj\Debug\SmartScale.csproj.CoreCompileInputs.cache
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V14Auto\Smartscalemp V14Auto\Smartscalemp V13Auto\SmartScale\SmartScale\obj\Debug\SmartScale.csproj.Up2Date
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V14Auto\Smartscalemp V14Auto\Smartscalemp V13Auto\SmartScale\SmartScale\obj\Debug\SmartScale.exe
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V14Auto\Smartscalemp V14Auto\Smartscalemp V13Auto\SmartScale\SmartScale\obj\Debug\SmartScale.pdb
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V14Auto\Smartscalemp V14Auto\Smartscalemp V15Auto\SmartScale\SmartScale\bin\Debug\SmartScale.exe.config
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V14Auto\Smartscalemp V14Auto\Smartscalemp V15Auto\SmartScale\SmartScale\bin\Debug\SmartScale.exe
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V14Auto\Smartscalemp V14Auto\Smartscalemp V15Auto\SmartScale\SmartScale\bin\Debug\SmartScale.pdb
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V14Auto\Smartscalemp V14Auto\Smartscalemp V15Auto\SmartScale\SmartScale\bin\Debug\MQTTnet.dll
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V14Auto\Smartscalemp V14Auto\Smartscalemp V15Auto\SmartScale\SmartScale\bin\Debug\MySql.Data.dll
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V14Auto\Smartscalemp V14Auto\Smartscalemp V15Auto\SmartScale\SmartScale\bin\Debug\Newtonsoft.Json.dll
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V14Auto\Smartscalemp V14Auto\Smartscalemp V15Auto\SmartScale\SmartScale\bin\Debug\C1.Win.C1Editor.2.xml
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V14Auto\Smartscalemp V14Auto\Smartscalemp V15Auto\SmartScale\SmartScale\bin\Debug\Newtonsoft.Json.xml
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V14Auto\Smartscalemp V14Auto\Smartscalemp V15Auto\SmartScale\SmartScale\obj\Debug\SmartScale.csproj.AssemblyReference.cache
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V14Auto\Smartscalemp V14Auto\Smartscalemp V15Auto\SmartScale\SmartScale\obj\Debug\SmartScale.frmTimbang.resources
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V14Auto\Smartscalemp V14Auto\Smartscalemp V15Auto\SmartScale\SmartScale\obj\Debug\SmartScale.Properties.Resources.resources
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V14Auto\Smartscalemp V14Auto\Smartscalemp V15Auto\SmartScale\SmartScale\obj\Debug\SmartScale.csproj.GenerateResource.cache
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V14Auto\Smartscalemp V14Auto\Smartscalemp V15Auto\SmartScale\SmartScale\obj\Debug\SmartScale.exe.licenses
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V14Auto\Smartscalemp V14Auto\Smartscalemp V15Auto\SmartScale\SmartScale\obj\Debug\SmartScale.csproj.CoreCompileInputs.cache
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V14Auto\Smartscalemp V14Auto\Smartscalemp V15Auto\SmartScale\SmartScale\obj\Debug\SmartScale.csproj.Up2Date
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V14Auto\Smartscalemp V14Auto\Smartscalemp V15Auto\SmartScale\SmartScale\obj\Debug\SmartScale.exe
+D:\Automation Engineer\app\mp_RNP\1auto\Smartscalemp V14Auto\Smartscalemp V14Auto\Smartscalemp V15Auto\SmartScale\SmartScale\obj\Debug\SmartScale.pdb
